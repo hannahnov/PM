@@ -1,0 +1,36 @@
+2020-11-05 14:46:36 INFO  root:71 - runner added to database.runners
+2020-11-05 14:47:04 INFO  root:17 - Program has started
+2020-11-05 15:55:40 INFO  root:17 - Program has started
+2020-11-05 15:56:04 INFO  root:87 - dog added to owner.dogs()
+2020-11-05 15:56:04 INFO  root:89 - dog added to database.dogs()
+2020-11-05 15:56:07 INFO  root:87 - dog added to owner.dogs()
+2020-11-05 15:56:07 INFO  root:89 - dog added to database.dogs()
+2020-11-05 15:56:07 INFO  root:92 - Owner added to database.owners()
+2020-11-05 15:56:30 INFO  root:71 - runner added to database.runners
+2020-11-05 15:56:44 INFO  root:42 - pairing added to database.pairings()
+2020-11-05 15:56:44 INFO  root:20 - Match found
+2020-11-05 15:57:26 INFO  root:43 - match not found
+2020-11-05 15:58:02 INFO  root:17 - Program has started
+2020-11-05 15:58:12 INFO  root:17 - Program has started
+2020-11-05 15:58:19 INFO  root:57 - no user found
+2020-11-05 15:58:22 INFO  root:57 - no user found
+2020-11-05 16:06:07 INFO  root:17 - Program has started
+2020-11-05 16:06:42 INFO  root:42 - pairing added to database.pairings()
+2020-11-05 16:07:48 INFO  root:42 - pairing added to database.pairings()
+2020-11-05 16:11:30 INFO  root:42 - pairing added to database.pairings()
+2020-11-05 16:18:36 INFO  root:42 - pairing added to database.pairings()
+2020-11-05 16:18:37 INFO  root:36 - Match found
+2020-11-05 16:18:41 INFO  root:42 - pairing added to database.pairings()
+2020-11-05 16:18:41 INFO  root:20 - Match found
+2020-11-05 16:24:57 INFO  root:17 - Program has started
+2020-11-05 16:25:24 INFO  root:87 - dog added to owner.dogs()
+2020-11-05 16:25:24 INFO  root:89 - dog added to database.dogs()
+2020-11-05 16:25:31 INFO  root:87 - dog added to owner.dogs()
+2020-11-05 16:25:31 INFO  root:89 - dog added to database.dogs()
+2020-11-05 16:25:31 INFO  root:92 - Owner added to database.owners()
+2020-11-05 16:25:41 INFO  root:43 - match not found
+2020-11-05 16:26:03 INFO  root:71 - runner added to database.runners
+2020-11-05 16:26:06 INFO  root:42 - pairing added to database.pairings()
+2020-11-05 16:26:06 INFO  root:20 - Match found
+2020-11-05 16:26:27 INFO  root:68 - User not found
+2020-11-05 16:26:41 INFO  root:90 - Program has ended
